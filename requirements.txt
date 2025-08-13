@@ -1,5 +1,6 @@
 databricks-sdk
 databricks-sql-connector
 streamlit
+pyspark
 pandas
 biopython
